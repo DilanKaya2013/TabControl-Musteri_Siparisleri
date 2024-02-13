@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\bin\Debug\TabControl-Musteri_Siparisleri.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\bin\Debug\TabControl-Musteri_Siparisleri.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\bin\Debug\TabControl-Musteri_Siparisleri.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\obj\Debug\TabControl-Musteri_Siparisleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\obj\Debug\TabControl-Musteri_Siparisleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\obj\Debug\TabControl_Musteri_Siparisleri.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\obj\Debug\TabControl_Musteri_Siparisleri.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\obj\Debug\TabControl-Musteri_Siparisleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\obj\Debug\TabControl-Musteri_Siparisleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\obj\Debug\TabControl-Musteri_Siparisleri.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\TabControl-Musteri_Siparisleri\TabControl-Musteri_Siparisleri\obj\Debug\TabControl-Musteri_Siparisleri.pdb
